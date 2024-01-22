@@ -3,4 +3,6 @@ article{
     border-width: 1px;
     border-color: black;
     margin-bottom: 30px;
+    background-color: beige;
+    padding: 10px;
 }
