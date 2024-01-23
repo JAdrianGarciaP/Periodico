@@ -1,1 +1,8 @@
-#Este texto forma parte del README
+# Periodico
+# Páginas:
+# ·Deportes
+# ·Salud
+# ·Economía
+# ·Internacional
+# ·Sociedad
+# ·Tecnología
