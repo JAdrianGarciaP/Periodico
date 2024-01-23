@@ -1,8 +1,8 @@
-# Periodico
-# Páginas:
-# ·Deportes
-# ·Salud
-# ·Economía
-# ·Internacional
-# ·Sociedad
-# ·Tecnología
+Periodico
+Páginas:
+ ·Deportes
+ ·Salud
+ ·Economía
+ ·Internacional
+ ·Sociedad
+ ·Tecnología
